@@ -1,0 +1,52 @@
+[0.339s] Invoking command in '/home/ds/your_workspace/build/husky_gazebo': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_gazebo
+[0.733s] -- The C compiler identification is GNU 11.4.0
+[2.708s] -- The CXX compiler identification is GNU 11.4.0
+[4.386s] -- Detecting C compiler ABI info
+[4.788s] -- Detecting C compiler ABI info - done
+[4.795s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.795s] -- Detecting C compile features
+[4.796s] -- Detecting C compile features - done
+[4.800s] -- Detecting CXX compiler ABI info
+[5.164s] -- Detecting CXX compiler ABI info - done
+[5.172s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.173s] -- Detecting CXX compile features
+[5.173s] -- Detecting CXX compile features - done
+[5.176s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.405s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.482s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.521s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[11.538s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[11.603s] -- Configuring done
+[11.607s] -- Generating done
+[11.608s] -- Build files have been written to: /home/ds/your_workspace/build/husky_gazebo
+[11.616s] Invoked command in '/home/ds/your_workspace/build/husky_gazebo' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_gazebo
+[11.618s] Invoking command in '/home/ds/your_workspace/build/husky_gazebo': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_gazebo -- -j8 -l8
+[11.654s] Invoked command in '/home/ds/your_workspace/build/husky_gazebo' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_gazebo -- -j8 -l8
+[11.675s] Invoking command in '/home/ds/your_workspace/build/husky_gazebo': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_gazebo
+[11.681s] -- Install configuration: ""
+[11.681s] -- Execute custom install script
+[11.682s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/gazebo.launch.py
+[11.690s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/husky_empty_world.launch
+[11.700s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/husky_playpen.launch
+[11.709s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/husky_playpen.launch.py
+[11.718s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/multi_husky_playpen.launch
+[11.726s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/playpen.launch
+[11.735s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/realsense.launch
+[11.744s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/spawn_husky.launch
+[11.751s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/clearpath_playpen.world
+[11.759s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/ament_index/resource_index/package_run_dependencies/husky_gazebo
+[11.767s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/ament_index/resource_index/parent_prefix_path/husky_gazebo
+[11.774s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/ament_prefix_path.sh
+[11.782s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/ament_prefix_path.dsv
+[11.789s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/path.sh
+[11.797s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/path.dsv
+[11.804s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.bash
+[11.811s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.sh
+[11.819s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.zsh
+[11.826s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.dsv
+[11.833s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/package.dsv
+[11.841s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/ament_index/resource_index/packages/husky_gazebo
+[11.848s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/cmake/husky_gazeboConfig.cmake
+[11.855s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/cmake/husky_gazeboConfig-version.cmake
+[11.864s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/package.xml
+[11.874s] Invoked command in '/home/ds/your_workspace/build/husky_gazebo' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_gazebo

@@ -1,0 +1,10 @@
+/home/ds/your_workspace/build/husky_base/CMakeFiles/uninstall.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/husky_base_uninstall.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/husky_hardware.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/test.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/edit_cache.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/rebuild_cache.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/list_install_components.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/install.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/install/local.dir
+/home/ds/your_workspace/build/husky_base/CMakeFiles/install/strip.dir

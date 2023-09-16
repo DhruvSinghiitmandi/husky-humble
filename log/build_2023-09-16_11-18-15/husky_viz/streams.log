@@ -1,0 +1,48 @@
+[0.119s] Invoking command in '/home/ds/your_workspace/build/husky_viz': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_viz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_viz
+[0.367s] -- The C compiler identification is GNU 11.4.0
+[2.125s] -- The CXX compiler identification is GNU 11.4.0
+[3.356s] -- Detecting C compiler ABI info
+[3.725s] -- Detecting C compiler ABI info - done
+[3.735s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.736s] -- Detecting C compile features
+[3.736s] -- Detecting C compile features - done
+[3.740s] -- Detecting CXX compiler ABI info
+[4.235s] -- Detecting CXX compiler ABI info - done
+[4.243s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.243s] -- Detecting CXX compile features
+[4.244s] -- Detecting CXX compile features - done
+[4.247s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.443s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[4.543s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.680s] -- Configuring done
+[4.684s] -- Generating done
+[4.685s] -- Build files have been written to: /home/ds/your_workspace/build/husky_viz
+[4.689s] Invoked command in '/home/ds/your_workspace/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_viz -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_viz
+[4.691s] Invoking command in '/home/ds/your_workspace/build/husky_viz': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_viz -- -j8 -l8
+[4.727s] Invoked command in '/home/ds/your_workspace/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_viz -- -j8 -l8
+[4.753s] Invoking command in '/home/ds/your_workspace/build/husky_viz': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_viz
+[4.761s] -- Install configuration: ""
+[4.761s] -- Execute custom install script
+[4.762s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_model.launch
+[4.771s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_model_launch.py
+[4.781s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_robot.launch
+[4.789s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_robot_launch.py
+[4.796s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/rviz/model.rviz
+[4.806s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/rviz/robot.rviz
+[4.813s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/rviz/test.rviz
+[4.822s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/ament_index/resource_index/package_run_dependencies/husky_viz
+[4.832s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/ament_index/resource_index/parent_prefix_path/husky_viz
+[4.843s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/ament_prefix_path.sh
+[4.854s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/ament_prefix_path.dsv
+[4.864s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/path.sh
+[4.879s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/path.dsv
+[4.891s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.bash
+[4.902s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.sh
+[4.920s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.zsh
+[4.932s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.dsv
+[4.942s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/package.dsv
+[4.955s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/ament_index/resource_index/packages/husky_viz
+[4.974s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/cmake/husky_vizConfig.cmake
+[5.007s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/cmake/husky_vizConfig-version.cmake
+[5.031s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/package.xml
+[5.051s] Invoked command in '/home/ds/your_workspace/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_viz

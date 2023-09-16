@@ -1,0 +1,61 @@
+[0.022s] Invoking command in '/home/ds/your_workspace/build/husky_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_description -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_description
+[0.032s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.164s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.172s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[5.157s] -- Configuring done
+[5.160s] -- Generating done
+[5.161s] -- Build files have been written to: /home/ds/your_workspace/build/husky_description
+[5.166s] Invoked command in '/home/ds/your_workspace/build/husky_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_description -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_description
+[5.168s] Invoking command in '/home/ds/your_workspace/build/husky_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_description -- -j8 -l8
+[5.204s] Invoked command in '/home/ds/your_workspace/build/husky_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_description -- -j8 -l8
+[5.228s] Invoking command in '/home/ds/your_workspace/build/husky_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_description
+[5.234s] -- Install configuration: ""
+[5.234s] -- Execute custom install script
+[5.235s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/launch/description.launch
+[5.235s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/launch/description_launch.py
+[5.235s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/300_mm_sensor_arch.dae
+[5.236s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/300_mm_sensor_arch.stl
+[5.236s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/510_mm_sensor_arch.dae
+[5.236s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/510_mm_sensor_arch.stl
+[5.236s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/lidar_mount.stl
+[5.237s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/lms1xx_mount.dae
+[5.237s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/accessories/lms1xx_mount.stl
+[5.237s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/base_link.dae
+[5.237s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/base_link.stl
+[5.238s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/bumper.dae
+[5.238s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/bumper_extension.dae
+[5.238s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/large_top_plate.dae
+[5.238s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/large_top_plate_collision.stl
+[5.239s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/top_chassis.dae
+[5.239s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/top_chassis.stl
+[5.239s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/top_plate.dae
+[5.239s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/top_plate.stl
+[5.239s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/user_rail.dae
+[5.239s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/user_rail.stl
+[5.240s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/wheel.dae
+[5.240s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/meshes/wheel.stl
+[5.240s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/accessories/intel_realsense.urdf.xacro
+[5.240s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/accessories/sensor_arch.urdf.xacro
+[5.240s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/accessories/sick_lms1xx_mount.urdf.xacro
+[5.241s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/decorations.urdf.xacro
+[5.241s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/empty.urdf
+[5.241s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/husky.urdf.xacro
+[5.241s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/husky_macro.urdf.xacro
+[5.241s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/urdf/wheel.urdf.xacro
+[5.241s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/ament_index/resource_index/package_run_dependencies/husky_description
+[5.242s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/ament_index/resource_index/parent_prefix_path/husky_description
+[5.242s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/environment/ament_prefix_path.sh
+[5.242s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/environment/ament_prefix_path.dsv
+[5.242s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/environment/path.sh
+[5.243s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/environment/path.dsv
+[5.243s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/local_setup.bash
+[5.243s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/local_setup.sh
+[5.243s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/local_setup.zsh
+[5.244s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/local_setup.dsv
+[5.244s] -- Symlinking: /home/ds/your_workspace/install/husky_description/share/husky_description/package.dsv
+[5.252s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/ament_index/resource_index/packages/husky_description
+[5.253s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.253s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/cmake/husky_descriptionConfig.cmake
+[5.253s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/cmake/husky_descriptionConfig-version.cmake
+[5.253s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_description/share/husky_description/package.xml
+[5.257s] Invoked command in '/home/ds/your_workspace/build/husky_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_description

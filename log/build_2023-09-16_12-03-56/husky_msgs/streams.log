@@ -1,0 +1,151 @@
+[0.015s] Invoking command in '/home/ds/your_workspace/build/husky_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_msgs -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_msgs
+[0.025s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.162s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.169s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[0.412s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.415s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.421s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.434s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.454s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.515s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.798s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.338s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.490s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.513s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.537s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.537s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.537s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.580s] -- Configuring done
+[1.616s] -- Generating done
+[1.619s] -- Build files have been written to: /home/ds/your_workspace/build/husky_msgs
+[1.627s] Invoked command in '/home/ds/your_workspace/build/husky_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_msgs -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_msgs
+[1.630s] Invoking command in '/home/ds/your_workspace/build/husky_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_msgs -- -j8 -l8
+[1.668s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_generator_c[0m
+[1.679s] [  3%] Built target husky_msgs__cpp
+[1.682s] [ 12%] Built target husky_msgs__rosidl_generator_c
+[1.689s] [ 12%] Built target ament_cmake_python_symlink_husky_msgs
+[1.695s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_cpp[0m
+[1.695s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_introspection_cpp[0m
+[1.695s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[1.698s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_introspection_c[0m
+[1.700s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_c[0m
+[1.703s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_fastrtps_c[0m
+[1.712s] [ 22%] Built target husky_msgs__rosidl_typesupport_introspection_cpp
+[1.712s] [ 32%] Built target husky_msgs__rosidl_typesupport_cpp
+[1.714s] [ 48%] Built target husky_msgs__rosidl_typesupport_fastrtps_cpp
+[1.714s] [ 51%] Built target husky_msgs__rosidl_typesupport_c
+[1.716s] [ 61%] Built target husky_msgs__rosidl_typesupport_introspection_c
+[1.721s] [ 70%] Built target husky_msgs__rosidl_typesupport_fastrtps_c
+[1.743s] [ 70%] Built target husky_msgs
+[1.762s] [ 74%] Built target husky_msgs__py
+[1.773s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_generator_py[0m
+[1.786s] [ 80%] Built target husky_msgs__rosidl_generator_py
+[1.798s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[1.798s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_c__pyext[0m
+[1.798s] [35m[1mConsolidate compiler generated dependencies of target husky_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.814s] [ 87%] Built target husky_msgs__rosidl_typesupport_introspection_c__pyext
+[1.815s] [ 93%] Built target husky_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.815s] [100%] Built target husky_msgs__rosidl_typesupport_c__pyext
+[2.012s] running egg_info
+[2.013s] writing husky_msgs.egg-info/PKG-INFO
+[2.014s] writing dependency_links to husky_msgs.egg-info/dependency_links.txt
+[2.014s] writing top-level names to husky_msgs.egg-info/top_level.txt
+[2.017s] reading manifest file 'husky_msgs.egg-info/SOURCES.txt'
+[2.017s] writing manifest file 'husky_msgs.egg-info/SOURCES.txt'
+[2.056s] [100%] Built target ament_cmake_python_build_husky_msgs_egg
+[2.068s] Invoked command in '/home/ds/your_workspace/build/husky_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_msgs -- -j8 -l8
+[2.164s] Invoking command in '/home/ds/your_workspace/build/husky_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_msgs
+[2.172s] -- Install configuration: ""
+[2.173s] -- Execute custom install script
+[2.173s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/ament_index/resource_index/rosidl_interfaces/husky_msgs
+[2.173s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__functions.h
+[2.174s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__struct.h
+[2.174s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__type_support.h
+[2.174s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/husky_status.h
+[2.174s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/rosidl_generator_c__visibility_control.h
+[2.174s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/library_path.sh
+[2.174s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/library_path.dsv
+[2.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__rosidl_typesupport_fastrtps_c.h
+[2.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__builder.hpp
+[2.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__struct.hpp
+[2.176s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__traits.hpp
+[2.176s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/husky_status.hpp
+[2.176s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__rosidl_typesupport_fastrtps_cpp.hpp
+[2.176s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__rosidl_typesupport_introspection_c.h
+[2.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/include/husky_msgs/husky_msgs/msg/detail/husky_status__rosidl_typesupport_introspection_cpp.hpp
+[2.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/pythonpath.sh
+[2.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/pythonpath.dsv
+[2.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs-1.0.8-py3.10.egg-info/PKG-INFO
+[2.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs-1.0.8-py3.10.egg-info/SOURCES.txt
+[2.179s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs-1.0.8-py3.10.egg-info/dependency_links.txt
+[2.179s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs-1.0.8-py3.10.egg-info/top_level.txt
+[2.180s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/__init__.py
+[2.180s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/_husky_msgs_s.ep.rosidl_typesupport_c.c
+[2.180s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/_husky_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.181s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/_husky_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[2.181s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.181s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.181s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.181s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/libhusky_msgs__rosidl_generator_py.so
+[2.181s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/msg/__init__.py
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/msg/_husky_status.py
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/msg/_husky_status_s.c
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/husky_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/msg/HuskyStatus.idl
+[2.182s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/msg/HuskyStatus.msg
+[2.183s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/ament_index/resource_index/package_run_dependencies/husky_msgs
+[2.183s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/ament_index/resource_index/parent_prefix_path/husky_msgs
+[2.183s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/ament_prefix_path.sh
+[2.183s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/ament_prefix_path.dsv
+[2.183s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/path.sh
+[2.184s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/environment/path.dsv
+[2.184s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/local_setup.bash
+[2.184s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/local_setup.sh
+[2.184s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/local_setup.zsh
+[2.184s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/local_setup.dsv
+[2.185s] -- Symlinking: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/package.dsv
+[2.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/ament_index/resource_index/packages/husky_msgs
+[2.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/rosidl_cmake-extras.cmake
+[2.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.195s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[2.195s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[2.195s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.195s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.195s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgsConfig.cmake
+[2.196s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgsConfig-version.cmake
+[2.196s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/package.xml
+[2.196s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_generator_c.so
+[2.196s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_fastrtps_c.so
+[2.197s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_fastrtps_cpp.so
+[2.197s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_introspection_c.so
+[2.198s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_c.so
+[2.198s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_introspection_cpp.so
+[2.199s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_typesupport_cpp.so
+[2.232s] Listing '/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs'...
+[2.232s] Compiling '/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/__init__.py'...
+[2.232s] Listing '/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages/husky_msgs/msg'...
+[2.238s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/lib/libhusky_msgs__rosidl_generator_py.so
+[2.239s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_generator_cExport.cmake
+[2.239s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_generator_cExport-noconfig.cmake
+[2.240s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[2.240s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.240s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_generator_cppExport.cmake
+[2.240s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.240s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cExport.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cExport.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cppExport.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/husky_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_generator_pyExport.cmake
+[2.241s] -- Up-to-date: /home/ds/your_workspace/install/husky_msgs/share/husky_msgs/cmake/export_husky_msgs__rosidl_generator_pyExport-noconfig.cmake
+[2.244s] Invoked command in '/home/ds/your_workspace/build/husky_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_msgs

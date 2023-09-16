@@ -1,0 +1,1 @@
+/home/ds/your_workspace/src/husky/husky_msgs/msg/HuskyStatus.msg

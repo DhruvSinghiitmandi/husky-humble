@@ -1,0 +1,36 @@
+[0.125s] Invoking command in '/home/ds/your_workspace/build/husky_control': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_control -- -j8 -l8
+[0.158s] Invoked command in '/home/ds/your_workspace/build/husky_control' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_control -- -j8 -l8
+[0.181s] Invoking command in '/home/ds/your_workspace/build/husky_control': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_control
+[0.188s] -- Install configuration: ""
+[0.188s] -- Execute custom install script
+[0.188s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/control.yaml
+[0.188s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/empty.yaml
+[0.189s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/gazebo_interface.yaml
+[0.189s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/imu_filter.yaml
+[0.189s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/localization.yaml
+[0.190s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/public_interface.yaml
+[0.190s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/teleop_interactive_markers.yaml
+[0.190s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/teleop_logitech.yaml
+[0.190s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/teleop_ps4.yaml
+[0.190s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/config/twist_mux.yaml
+[0.191s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/control.launch
+[0.191s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/control.launch.py
+[0.191s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/teleop.launch
+[0.191s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/teleop_base.launch.py
+[0.192s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/teleop_joy.launch.py
+[0.192s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/ament_index/resource_index/package_run_dependencies/husky_control
+[0.192s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/ament_index/resource_index/parent_prefix_path/husky_control
+[0.192s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/ament_prefix_path.sh
+[0.193s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/ament_prefix_path.dsv
+[0.193s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/path.sh
+[0.193s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/path.dsv
+[0.193s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.bash
+[0.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.sh
+[0.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.zsh
+[0.194s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.dsv
+[0.194s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/package.dsv
+[0.203s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/ament_index/resource_index/packages/husky_control
+[0.204s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/cmake/husky_controlConfig.cmake
+[0.204s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake
+[0.204s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_control/share/husky_control/package.xml
+[0.211s] Invoked command in '/home/ds/your_workspace/build/husky_control' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_control

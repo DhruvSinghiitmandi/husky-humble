@@ -1,0 +1,45 @@
+[0.236s] Invoking command in '/home/ds/your_workspace/build/husky_base': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:/home/ds/your_workspace/install/husky_base/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/ds/your_workspace/build/husky_base -- -j8 -l8
+[0.305s] [100%] Built target husky_hardware
+[0.317s] Invoked command in '/home/ds/your_workspace/build/husky_base' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:/home/ds/your_workspace/install/husky_base/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/ds/your_workspace/build/husky_base -- -j8 -l8
+[0.382s] Invoking command in '/home/ds/your_workspace/build/husky_base': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:/home/ds/your_workspace/install/husky_base/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/ds/your_workspace/build/husky_base
+[0.390s] -- Install configuration: ""
+[0.391s] -- Execute custom install script
+[0.391s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base//husky_hardware.xml
+[0.392s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/lib/libhusky_hardware.so
+[0.392s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Exception.h
+[0.392s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Logger.h
+[0.393s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message.h
+[0.393s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message_cmd.h
+[0.393s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message_data.h
+[0.393s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message_request.h
+[0.394s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Number.h
+[0.394s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Transport.h
+[0.395s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/clearpath.h
+[0.395s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/crc.h
+[0.395s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/serial.h
+[0.395s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy_wrapper.h
+[0.395s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/husky_diagnostics.h
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/husky_hardware.hpp
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/launch/base.launch.py
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/library_path.sh
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/library_path.dsv
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/package_run_dependencies/husky_base
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/parent_prefix_path/husky_base
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/ament_prefix_path.sh
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/ament_prefix_path.dsv
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/path.sh
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/path.dsv
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.bash
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.sh
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.zsh
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.dsv
+[0.398s] -- Symlinking: /home/ds/your_workspace/install/husky_base/share/husky_base/package.dsv
+[0.409s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/packages/husky_base
+[0.409s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/husky_base
+[0.409s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.410s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/ament_cmake_export_libraries-extras.cmake
+[0.410s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.410s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/husky_baseConfig.cmake
+[0.410s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/husky_baseConfig-version.cmake
+[0.410s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/package.xml
+[0.416s] Invoked command in '/home/ds/your_workspace/build/husky_base' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:/home/ds/your_workspace/install/husky_base/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/ds/your_workspace/build/husky_base

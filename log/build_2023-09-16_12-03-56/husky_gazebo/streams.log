@@ -1,0 +1,45 @@
+[0.316s] Invoking command in '/home/ds/your_workspace/build/husky_gazebo': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_gazebo -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_gazebo
+[0.328s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.496s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.504s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[5.433s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[5.502s] -- Configuring done
+[5.506s] -- Generating done
+[5.506s] -- Build files have been written to: /home/ds/your_workspace/build/husky_gazebo
+[5.512s] Invoked command in '/home/ds/your_workspace/build/husky_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_gazebo -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_gazebo
+[5.513s] Invoking command in '/home/ds/your_workspace/build/husky_gazebo': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_gazebo -- -j8 -l8
+[5.550s] Invoked command in '/home/ds/your_workspace/build/husky_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_gazebo -- -j8 -l8
+[5.575s] Invoking command in '/home/ds/your_workspace/build/husky_gazebo': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_gazebo
+[5.581s] -- Install configuration: ""
+[5.582s] -- Execute custom install script
+[5.583s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/gazebo.launch.py
+[5.583s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/husky_empty_world.launch
+[5.583s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/husky_playpen.launch
+[5.584s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/husky_playpen.launch.py
+[5.584s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/multi_husky_playpen.launch
+[5.584s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/playpen.launch
+[5.584s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/realsense.launch
+[5.584s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/launch/spawn_husky.launch
+[5.584s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/Materials/Mars_surface.jpg
+[5.592s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/Materials/terrain.material
+[5.600s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/clearpath_playpen.world
+[5.600s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/obstacle.world
+[5.608s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/surface1.stl
+[5.616s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/terrain-old.world
+[5.624s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/worlds/terrain.world
+[5.632s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/ament_index/resource_index/package_run_dependencies/husky_gazebo
+[5.632s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/ament_index/resource_index/parent_prefix_path/husky_gazebo
+[5.632s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/ament_prefix_path.sh
+[5.632s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/ament_prefix_path.dsv
+[5.632s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/path.sh
+[5.633s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/environment/path.dsv
+[5.633s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.bash
+[5.633s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.sh
+[5.633s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.zsh
+[5.634s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/local_setup.dsv
+[5.634s] -- Symlinking: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/package.dsv
+[5.642s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/ament_index/resource_index/packages/husky_gazebo
+[5.642s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/cmake/husky_gazeboConfig.cmake
+[5.642s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/cmake/husky_gazeboConfig-version.cmake
+[5.642s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_gazebo/share/husky_gazebo/package.xml
+[5.647s] Invoked command in '/home/ds/your_workspace/build/husky_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/home/ds/your_workspace/install/husky_desktop:/home/ds/your_workspace/install/husky_viz:/home/ds/your_workspace/install/husky_simulator:/home/ds/your_workspace/install/husky_robot:/home/ds/your_workspace/install/husky_bringup:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_gazebo

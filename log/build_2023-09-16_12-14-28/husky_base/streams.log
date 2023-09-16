@@ -1,0 +1,45 @@
+[0.220s] Invoking command in '/home/ds/your_workspace/build/husky_base': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ds/your_workspace/build/husky_base -- -j8 -l8
+[0.295s] [100%] Built target husky_hardware
+[0.308s] Invoked command in '/home/ds/your_workspace/build/husky_base' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ds/your_workspace/build/husky_base -- -j8 -l8
+[0.368s] Invoking command in '/home/ds/your_workspace/build/husky_base': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ds/your_workspace/build/husky_base
+[0.375s] -- Install configuration: ""
+[0.376s] -- Execute custom install script
+[0.376s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base//husky_hardware.xml
+[0.377s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/lib/libhusky_hardware.so
+[0.377s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Exception.h
+[0.378s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Logger.h
+[0.378s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message.h
+[0.378s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message_cmd.h
+[0.379s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message_data.h
+[0.379s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Message_request.h
+[0.379s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Number.h
+[0.379s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/Transport.h
+[0.379s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/clearpath.h
+[0.380s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/crc.h
+[0.380s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy/serial.h
+[0.380s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/horizon_legacy_wrapper.h
+[0.380s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/husky_diagnostics.h
+[0.380s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/include/husky_base/husky_hardware.hpp
+[0.380s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/launch/base.launch.py
+[0.381s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/library_path.sh
+[0.381s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/library_path.dsv
+[0.381s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/package_run_dependencies/husky_base
+[0.381s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/parent_prefix_path/husky_base
+[0.382s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/ament_prefix_path.sh
+[0.382s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/ament_prefix_path.dsv
+[0.383s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/path.sh
+[0.383s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/environment/path.dsv
+[0.383s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.bash
+[0.383s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.sh
+[0.383s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.zsh
+[0.384s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/local_setup.dsv
+[0.384s] -- Symlinking: /home/ds/your_workspace/install/husky_base/share/husky_base/package.dsv
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/packages/husky_base
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/husky_base
+[0.396s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/ament_cmake_export_libraries-extras.cmake
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/husky_baseConfig.cmake
+[0.397s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/cmake/husky_baseConfig-version.cmake
+[0.398s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_base/share/husky_base/package.xml
+[0.402s] Invoked command in '/home/ds/your_workspace/build/husky_base' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ds/your_workspace/build/husky_base

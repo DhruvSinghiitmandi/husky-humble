@@ -1,0 +1,50 @@
+[0.968s] Invoking command in '/home/ds/your_workspace/build/husky_bringup': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_base/lib:/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_bringup
+[1.313s] -- The C compiler identification is GNU 11.4.0
+[3.043s] -- The CXX compiler identification is GNU 11.4.0
+[4.399s] -- Detecting C compiler ABI info
+[4.753s] -- Detecting C compiler ABI info - done
+[4.760s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.760s] -- Detecting C compile features
+[4.760s] -- Detecting C compile features - done
+[4.763s] -- Detecting CXX compiler ABI info
+[5.152s] -- Detecting CXX compiler ABI info - done
+[5.159s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.159s] -- Detecting CXX compile features
+[5.159s] -- Detecting CXX compile features - done
+[5.162s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.312s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.368s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.458s] -- Configuring done
+[5.461s] -- Generating done
+[5.462s] -- Build files have been written to: /home/ds/your_workspace/build/husky_bringup
+[5.466s] Invoked command in '/home/ds/your_workspace/build/husky_bringup' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_base/lib:/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_bringup
+[5.468s] Invoking command in '/home/ds/your_workspace/build/husky_bringup': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_base/lib:/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ds/your_workspace/build/husky_bringup -- -j8 -l8
+[5.498s] Invoked command in '/home/ds/your_workspace/build/husky_bringup' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_base/lib:/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ds/your_workspace/build/husky_bringup -- -j8 -l8
+[5.517s] Invoking command in '/home/ds/your_workspace/build/husky_bringup': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_base/lib:/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ds/your_workspace/build/husky_bringup
+[5.522s] -- Install configuration: ""
+[5.522s] -- Execute custom install script
+[5.523s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/config/mag_config_default.yaml
+[5.531s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/launch/accessories.launch.py
+[5.538s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/udev/10-microstrain.rules
+[5.544s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/udev/41-clearpath.rules
+[5.552s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/udev/41-hokuyo.rules
+[5.558s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/udev/41-logitech.rules
+[5.565s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/udev/52-ftdi.rules
+[5.572s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/udev/README.md
+[5.579s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/lib/husky_bringup/install
+[5.587s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/ament_index/resource_index/package_run_dependencies/husky_bringup
+[5.594s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/ament_index/resource_index/parent_prefix_path/husky_bringup
+[5.601s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/environment/ament_prefix_path.sh
+[5.607s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/environment/ament_prefix_path.dsv
+[5.614s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/environment/path.sh
+[5.621s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/environment/path.dsv
+[5.628s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/local_setup.bash
+[5.635s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/local_setup.sh
+[5.642s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/local_setup.zsh
+[5.649s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/local_setup.dsv
+[5.656s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/package.dsv
+[5.663s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/ament_index/resource_index/packages/husky_bringup
+[5.670s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig.cmake
+[5.677s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig-version.cmake
+[5.684s] -- Symlinking: /home/ds/your_workspace/install/husky_bringup/share/husky_bringup/package.xml
+[5.694s] Invoked command in '/home/ds/your_workspace/build/husky_bringup' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_base:/home/ds/your_workspace/install/husky_msgs:/home/ds/your_workspace/install/husky_description:/opt/ros/humble LD_LIBRARY_PATH=/home/ds/your_workspace/install/husky_base/lib:/home/ds/your_workspace/install/husky_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ds/your_workspace/install/husky_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ds/your_workspace/build/husky_bringup

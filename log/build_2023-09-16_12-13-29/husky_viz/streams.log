@@ -1,0 +1,28 @@
+[0.114s] Invoking command in '/home/ds/your_workspace/build/husky_viz': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_viz -- -j8 -l8
+[0.145s] Invoked command in '/home/ds/your_workspace/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_viz -- -j8 -l8
+[0.167s] Invoking command in '/home/ds/your_workspace/build/husky_viz': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_viz
+[0.174s] -- Install configuration: ""
+[0.175s] -- Execute custom install script
+[0.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_model.launch
+[0.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_model_launch.py
+[0.175s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_robot.launch
+[0.176s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/launch/view_robot_launch.py
+[0.176s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/rviz/model.rviz
+[0.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/rviz/robot.rviz
+[0.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/rviz/test.rviz
+[0.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/ament_index/resource_index/package_run_dependencies/husky_viz
+[0.177s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/ament_index/resource_index/parent_prefix_path/husky_viz
+[0.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/ament_prefix_path.sh
+[0.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/ament_prefix_path.dsv
+[0.178s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/path.sh
+[0.179s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/environment/path.dsv
+[0.179s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.bash
+[0.180s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.sh
+[0.180s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.zsh
+[0.180s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/local_setup.dsv
+[0.180s] -- Symlinking: /home/ds/your_workspace/install/husky_viz/share/husky_viz/package.dsv
+[0.187s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/ament_index/resource_index/packages/husky_viz
+[0.188s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/cmake/husky_vizConfig.cmake
+[0.188s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/cmake/husky_vizConfig-version.cmake
+[0.188s] -- Up-to-date symlink: /home/ds/your_workspace/install/husky_viz/share/husky_viz/package.xml
+[0.192s] Invoked command in '/home/ds/your_workspace/build/husky_viz' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_viz

@@ -1,0 +1,41 @@
+[0.487s] Invoking command in '/home/ds/your_workspace/build/husky_simulator': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_simulator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_simulator
+[0.875s] -- The C compiler identification is GNU 11.4.0
+[2.679s] -- The CXX compiler identification is GNU 11.4.0
+[4.119s] -- Detecting C compiler ABI info
+[4.492s] -- Detecting C compiler ABI info - done
+[4.500s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.500s] -- Detecting C compile features
+[4.500s] -- Detecting C compile features - done
+[4.503s] -- Detecting CXX compiler ABI info
+[4.899s] -- Detecting CXX compiler ABI info - done
+[4.906s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.906s] -- Detecting CXX compile features
+[4.906s] -- Detecting CXX compile features - done
+[4.910s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.101s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.174s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.275s] -- Configuring done
+[5.280s] -- Generating done
+[5.281s] -- Build files have been written to: /home/ds/your_workspace/build/husky_simulator
+[5.285s] Invoked command in '/home/ds/your_workspace/build/husky_simulator' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_simulator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_simulator
+[5.287s] Invoking command in '/home/ds/your_workspace/build/husky_simulator': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_simulator -- -j8 -l8
+[5.321s] Invoked command in '/home/ds/your_workspace/build/husky_simulator' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_simulator -- -j8 -l8
+[5.341s] Invoking command in '/home/ds/your_workspace/build/husky_simulator': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_simulator
+[5.347s] -- Install configuration: ""
+[5.348s] -- Execute custom install script
+[5.348s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/ament_index/resource_index/package_run_dependencies/husky_simulator
+[5.358s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/ament_index/resource_index/parent_prefix_path/husky_simulator
+[5.367s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/environment/ament_prefix_path.sh
+[5.375s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/environment/ament_prefix_path.dsv
+[5.384s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/environment/path.sh
+[5.391s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/environment/path.dsv
+[5.399s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/local_setup.bash
+[5.406s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/local_setup.sh
+[5.413s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/local_setup.zsh
+[5.421s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/local_setup.dsv
+[5.429s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/package.dsv
+[5.437s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/ament_index/resource_index/packages/husky_simulator
+[5.445s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/cmake/husky_simulatorConfig.cmake
+[5.452s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/cmake/husky_simulatorConfig-version.cmake
+[5.461s] -- Symlinking: /home/ds/your_workspace/install/husky_simulator/share/husky_simulator/package.xml
+[5.472s] Invoked command in '/home/ds/your_workspace/build/husky_simulator' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_gazebo:/home/ds/your_workspace/install/husky_control:/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_simulator

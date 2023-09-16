@@ -1,0 +1,56 @@
+[0.130s] Invoking command in '/home/ds/your_workspace/build/husky_control': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_control
+[0.376s] -- The C compiler identification is GNU 11.4.0
+[2.189s] -- The CXX compiler identification is GNU 11.4.0
+[3.718s] -- Detecting C compiler ABI info
+[4.198s] -- Detecting C compiler ABI info - done
+[4.205s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.205s] -- Detecting C compile features
+[4.206s] -- Detecting C compile features - done
+[4.212s] -- Detecting CXX compiler ABI info
+[4.682s] -- Detecting CXX compiler ABI info - done
+[4.694s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.694s] -- Detecting CXX compile features
+[4.695s] -- Detecting CXX compile features - done
+[4.699s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[4.955s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.114s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.279s] -- Configuring done
+[5.286s] -- Generating done
+[5.287s] -- Build files have been written to: /home/ds/your_workspace/build/husky_control
+[5.297s] Invoked command in '/home/ds/your_workspace/build/husky_control' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake /home/ds/your_workspace/src/husky/husky_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ds/your_workspace/install/husky_control
+[5.301s] Invoking command in '/home/ds/your_workspace/build/husky_control': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_control -- -j8 -l8
+[5.363s] Invoked command in '/home/ds/your_workspace/build/husky_control' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --build /home/ds/your_workspace/build/husky_control -- -j8 -l8
+[5.393s] Invoking command in '/home/ds/your_workspace/build/husky_control': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_control
+[5.402s] -- Install configuration: ""
+[5.402s] -- Execute custom install script
+[5.408s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/control.yaml
+[5.420s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/empty.yaml
+[5.430s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/gazebo_interface.yaml
+[5.442s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/imu_filter.yaml
+[5.450s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/localization.yaml
+[5.460s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/public_interface.yaml
+[5.471s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/teleop_interactive_markers.yaml
+[5.486s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/teleop_logitech.yaml
+[5.499s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/teleop_ps4.yaml
+[5.517s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/config/twist_mux.yaml
+[5.533s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/control.launch
+[5.547s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/control.launch.py
+[5.561s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/teleop.launch
+[5.577s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/teleop_base.launch.py
+[5.591s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/launch/teleop_joy.launch.py
+[5.602s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/ament_index/resource_index/package_run_dependencies/husky_control
+[5.613s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/ament_index/resource_index/parent_prefix_path/husky_control
+[5.624s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/ament_prefix_path.sh
+[5.634s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/ament_prefix_path.dsv
+[5.645s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/path.sh
+[5.653s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/environment/path.dsv
+[5.664s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.bash
+[5.674s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.sh
+[5.682s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.zsh
+[5.691s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/local_setup.dsv
+[5.699s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/package.dsv
+[5.709s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/ament_index/resource_index/packages/husky_control
+[5.720s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/cmake/husky_controlConfig.cmake
+[5.731s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake
+[5.740s] -- Symlinking: /home/ds/your_workspace/install/husky_control/share/husky_control/package.xml
+[5.754s] Invoked command in '/home/ds/your_workspace/build/husky_control' returned '0': AMENT_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ds/your_workspace/install/husky_description:/opt/ros/humble /usr/bin/cmake --install /home/ds/your_workspace/build/husky_control
